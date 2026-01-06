@@ -24,9 +24,8 @@ Trained on log-transformed prices with Huber loss for robust regression.
 ├──***models***/   
 │   ├── multimodal_new.keras   
 │   ├── tabular_scaler_new.pkl   
-│   └── spatial_center_new.pkl
-|   └── feature_schema_new.pkl   
-│
+│   └── spatial_center_new.pkl   
+│   └── feature_schema_new.pkl
 ├── ***data_feacher.py***   
 ├── ***preprocessing.ipynb***   
 ├── ***multimodal_new.ipynb***   
@@ -152,3 +151,4 @@ python multimodal_new.ipynb
         ```
     models/spatial_center_new.pkl
         ```
+
